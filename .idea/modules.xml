@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authentication/authentication.iml" filepath="$PROJECT_DIR$/authentication/authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashLoads.iml" filepath="$PROJECT_DIR$/cashLoads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashLoads-payment/cashLoads-payment.iml" filepath="$PROJECT_DIR$/cashLoads-payment/cashLoads-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashLoads-user/cashLoads-user.iml" filepath="$PROJECT_DIR$/cashLoads-user/cashLoads-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashLoans-account/cashLoans-account.iml" filepath="$PROJECT_DIR$/cashLoans-account/cashLoans-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashLoans-contract/cashLoans-contract.iml" filepath="$PROJECT_DIR$/cashLoans-contract/cashLoans-contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashLoans-finance/cashLoans-finance.iml" filepath="$PROJECT_DIR$/cashLoans-finance/cashLoans-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashLoans-gateway/cashLoans-gateway.iml" filepath="$PROJECT_DIR$/cashLoans-gateway/cashLoans-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cashLoans-message/cashLoans-message.iml" filepath="$PROJECT_DIR$/cashLoans-message/cashLoans-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creditLoan/creditLoan.iml" filepath="$PROJECT_DIR$/creditLoan/creditLoan.iml" />
+    </modules>
+  </component>
+</project>
