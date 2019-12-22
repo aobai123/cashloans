@@ -23,27 +23,39 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="authentication" />
+        <module name="cashLoads-authentication" />
         <module name="cashLoads-payment" />
         <module name="cashLoads-user" />
         <module name="cashLoans-account" />
+        <module name="cashLoans-authentication" />
         <module name="cashLoans-contract" />
+        <module name="cashLoans-creditLoan" />
         <module name="cashLoans-finance" />
         <module name="cashLoans-gateway" />
         <module name="cashLoans-message" />
+        <module name="cashLoans-payment" />
+        <module name="cashLoans-user" />
+        <module name="cashLoans-user-api" />
         <module name="creditLoan" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="authentication" target="1.5" />
       <module name="cashLoads" target="1.5" />
+      <module name="cashLoads-authentication" target="1.5" />
       <module name="cashLoads-payment" target="1.5" />
       <module name="cashLoads-user" target="1.8" />
       <module name="cashLoadsuser" target="1.8" />
       <module name="cashLoans-account" target="1.5" />
+      <module name="cashLoans-authentication" target="1.5" />
       <module name="cashLoans-contract" target="1.5" />
+      <module name="cashLoans-creditLoan" target="1.5" />
       <module name="cashLoans-finance" target="1.5" />
       <module name="cashLoans-gateway" target="1.5" />
       <module name="cashLoans-message" target="1.5" />
+      <module name="cashLoans-payment" target="1.5" />
+      <module name="cashLoans-user" target="1.8" />
+      <module name="cashLoans-user-api" target="1.5" />
       <module name="creditLoan" target="1.5" />
     </bytecodeTargetLevel>
   </component>
