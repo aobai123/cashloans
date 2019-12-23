@@ -12,6 +12,17 @@
     <groupId>cn.aobai.com</groupId>
     <artifactId>cashLoans-contract</artifactId>
     <dependencies>
+
+
+
+        <dependency>
+            <groupId>cn.aobai.com</groupId>
+            <artifactId>cashLoans-contract-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+
+
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger2</artifactId>
