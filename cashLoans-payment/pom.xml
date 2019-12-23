@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>cn.aobai.com</groupId>
-        <artifactId>cashLoads</artifactId>
+        <artifactId>cashLoans</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
     <groupId>cn.aobai.com</groupId>
-    <artifactId>cashLoads-payment</artifactId>
+    <artifactId>cashLoans-payment</artifactId>
     <dependencies>
         <dependency>
             <groupId>io.springfox</groupId>

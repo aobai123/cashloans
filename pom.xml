@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.aobai.com</groupId>
-    <artifactId>cashLoads</artifactId>
+    <artifactId>cashLoans</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
@@ -18,6 +18,15 @@
         <module>cashLoans-message</module>
         <module>cashLoans-gateway</module>
         <module>cashLoans-user</module>
+        <module>cashLoans-account-api</module>
+        <module>cashLoans-authentication-api</module>
+        <module>cashLoans-contract-api</module>
+        <module>cashLoans-creditLoan-api</module>
+        <module>cashLoans-finance-api</module>
+        <module>cashLoans-gateway-api</module>
+        <module>cashLoans-message-api</module>
+        <module>cashLoans-payment-api</module>
+        <module>cashLoans-user-api</module>
     </modules>
 
     <properties>

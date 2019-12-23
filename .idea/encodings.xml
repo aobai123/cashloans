@@ -3,14 +3,23 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-account-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-authentication" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-authentication-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-contract" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-contract-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-creditLoan" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-creditLoan-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-finance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-finance-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-gateway-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-message-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-payment-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashLoans-user-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cashLoans-user-api" charset="UTF-8" />
   </component>
 </project>
