@@ -17,7 +17,7 @@
         <module>cashLoans-account</module>
         <module>cashLoans-message</module>
         <module>cashLoans-gateway</module>
-        <module>cashLoans-user-api</module>
+        <module>cashLoans-user</module>
     </modules>
 
     <properties>
