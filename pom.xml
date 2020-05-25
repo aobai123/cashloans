@@ -22,7 +22,6 @@
         <module>cashLoans-contract-api</module>
         <module>cashLoans-creditLoan-api</module>
         <module>cashLoans-finance-api</module>
-        <module>cashLoans-gateway-api</module>
         <module>cashLoans-message-api</module>
         <module>cashLoans-payment-api</module>
         <module>cashLoans-user-api</module>
