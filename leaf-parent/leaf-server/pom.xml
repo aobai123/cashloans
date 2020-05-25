@@ -9,6 +9,7 @@
 	</parent>
 	<groupId>com.aobai</groupId>
 	<artifactId>leaf-server</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>leaf-server</name>
 	<description>Demo project for Spring Boot</description>
