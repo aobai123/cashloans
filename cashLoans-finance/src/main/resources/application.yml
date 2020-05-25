@@ -1,14 +1,6 @@
 server:
   port: 4000
 
-spring:
-    datasource:
-        username: root
-        type: com.alibaba.druid.pool.DruidDataSource    #配置当前要使用的数据源的操作类型那个
-        driver-class-name: org.gjt.mm.mysql.Driver       #配置MySQL的驱动程序类
-        url: jdbc:mysql://192.168.233.129:3306/cashLoans?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8&useAffectedRows=true
-        password: aobai
-        filters: stat,wall,log4j     #druid监控配置
 mybatis:
     mapperLocations: classpath*:mapper/*Mapper.xml
     typeAliasesPackage: com.aobai.user.domain
