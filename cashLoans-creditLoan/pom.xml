@@ -10,10 +10,18 @@
     </parent>
 
     <groupId>cn.aobai.com</groupId>
-    <artifactId>creditLoan</artifactId>
+    <artifactId>cashLoans-creditLoan</artifactId>
     <dependencies>
 
-
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
         <dependency>
             <groupId>cn.aobai.com</groupId>
             <artifactId>cashLoans-creditLoan-api</artifactId>
