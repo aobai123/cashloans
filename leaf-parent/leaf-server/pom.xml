@@ -76,7 +76,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>${spring-boot-dependencies.version}</version>
 				<configuration>
-					<mainClass>com.sankuai.inf.leaf.server.LeafServerApplication</mainClass>
+					<mainClass>com.aobai.leafserver.LeafServerApplication</mainClass>
 				</configuration>
 				<executions>
 					<execution>
